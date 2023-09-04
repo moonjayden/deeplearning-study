@@ -7,5 +7,5 @@
 
 
 
-### from scratch / 2023
+### deep-learning-from-scratch / 2023
 
